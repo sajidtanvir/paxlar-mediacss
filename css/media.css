@@ -1,0 +1,178 @@
+@media(min-width: 575px){
+    .banner ul{
+        width: 80%;
+        margin: auto;
+    }
+   
+    
+}
+@media(max-width: 1199px){
+    .top-header ul li a{
+        margin-right: 7px;
+    }
+    .banner h1{
+
+        font-size: 40px;
+        font-weight: 600;
+    }
+
+    .banner ul li h5{
+
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .banner ul li h6{
+
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .edit {
+    top: 54%;
+    }
+    .arrow {
+        top: 54%;
+        right: 6%;
+        transform: translate(-5%, -5%);
+    }
+    .footer-bottom ul {
+        
+        justify-content: start;
+    }
+    .contact-info ul li{
+        
+        margin-right: 40px;
+    }
+    
+}
+@media(min-width: 991px){
+   
+
+}
+@media(max-width: 991px){
+    .md-hide{
+        display: none;
+    }
+    .md-show{
+        display: inline-block;
+    }
+    .circle-img img{
+        width: 50% !important;
+    }
+    .left-top{
+        top: -37px;
+    left: 16%;
+    }
+    .left-middle{
+        left: 5%;
+    }
+   .left-bottom{
+    left: 15%;
+   }
+   .right-top{
+    top: -33px;
+    right: 12%;
+   }
+   .right-middle{
+    right: -3%;
+   }
+   .right-bottom{
+    right: 15%;
+   }
+   .card{
+    margin-bottom: 30px;
+   }
+   .footer-heading h2 {
+    margin-top: 15px;
+   }
+   .contact-info ul li i {
+    padding: 0px;
+   }
+   .edit {
+    top: 38%;
+   }
+   .arrow {
+    top: 54%;
+    right: 9%;
+    transform: translate(-2%, 0%);
+    }
+    .footer-bottom ul li a {
+        
+        margin-left: 15px;
+        font-size: 10px;
+        padding: 10px 0px;
+    }
+    .contact-info ul li{
+
+        margin-right: -18px;
+    
+    }
+    
+
+}
+@media(min-width: 767px){
+    .top-header ul li a{
+        margin-right: 7px;
+    }
+    
+    
+}
+@media(max-width: 767px){
+    .verify-item{
+        margin-bottom: 30px;
+    }
+    .step-img{
+        display: none;
+    }
+    .btn-view{
+        
+    }
+    .edit {
+        top: 68%;
+    }
+    .top-header{
+        margin: auto;
+    }
+    .email {
+        width: 70%;
+        
+    }
+    .arrow {
+        top: 84%;
+        right: 31%;
+        transform: translate(-5%, 0%);
+    }
+    .contact-info ul li i {
+       
+        justify-content: end;
+        
+    }
+    
+    
+}
+
+@media(max-width: 575px){
+    .text{
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    .auto{
+        margin: auto;
+    }
+    
+    .verify-item{
+        margin-bottom: 30px;
+    }
+    .custom{
+        width: 80%;
+    }
+        .edit {
+        top: 66%;
+    }
+    .arrow {
+        top: 85%;
+        right: 31%;
+        transform: translate(-5%, -5%);
+    }
+    
+
+}
